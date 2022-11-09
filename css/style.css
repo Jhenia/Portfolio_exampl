@@ -1243,13 +1243,16 @@ a {
   }
 
   .main__icon1 {
-    right: 0px;
+    right: -3px;
     top: 120px;
     background: url("../img/icon__1_mob.png");
     width: 121px;
     height: 121px;
+    position: absolute;
+    display: block !important;
     background-size: cover;
     background-repeat: no-repeat;
+    left: auto;
   }
 
   .main__icon2 {
