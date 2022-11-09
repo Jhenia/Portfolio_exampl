@@ -1278,6 +1278,7 @@ a {
   }
 
   .main__order-info {
+    color: #fff !important;
     margin-left: 0;
     font-size: 36px;
     line-height: 45px;
