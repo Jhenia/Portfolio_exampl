@@ -1274,7 +1274,6 @@ a {
 
   .main {
     position: relative;
-    overflow-x: hidden;
     padding-bottom: 44px;
   }
 
@@ -1390,6 +1389,7 @@ a {
   }
 
   .modal {
+    top: 10%;
     max-width: 340px;
   }
 
