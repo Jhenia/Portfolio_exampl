@@ -1272,6 +1272,10 @@ a {
     margin-left: 10px;
   }
 
+  main {
+    overflow-x: hidden;
+  }
+
   .main {
     position: relative;
     padding-bottom: 44px;
