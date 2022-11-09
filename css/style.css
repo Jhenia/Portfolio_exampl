@@ -19,6 +19,11 @@ body.locked {
   overflow: hidden;
 }
 
+a[href^=tel] {
+  color: inherit;
+  text-decoration: none;
+}
+
 .btn {
   font-style: normal;
   border: none;
