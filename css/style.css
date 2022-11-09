@@ -7,6 +7,14 @@
   max-width: 1440px;
 }
 
+html {
+  color: #fff !important;
+}
+
+body {
+  color: #fff !important;
+}
+
 body.locked {
   overflow: hidden;
 }
