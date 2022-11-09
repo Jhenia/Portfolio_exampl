@@ -1313,6 +1313,10 @@ a {
     height: 50px;
   }
 
+  #modal-container {
+    padding: 0 15px;
+  }
+
   .social__border a {
     max-width: 50px;
     height: 49px;
@@ -1412,7 +1416,6 @@ a {
 
   .modal {
     top: 10%;
-    max-width: 340px;
   }
 
   .swiper {
